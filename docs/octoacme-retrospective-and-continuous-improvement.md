@@ -29,5 +29,10 @@ After each sprint, release, or important milestone. Also after incidents.
 - Success criteria:
 
 ## Continuous Improvement Culture
-- Measure impact of action items
+- Measure impact of action items and track completion
 - Celebrate improvements and make small, iterative changes
+- Share learnings across teams (knowledge base, brown bags, team meetings)
+- Update process documentation based on retrospective insights
+- Review and refine handoff protocols (see [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md))
+- Encourage experimentation with new practices in time-boxed trials
+- Build feedback loops into all stages of the project lifecycle

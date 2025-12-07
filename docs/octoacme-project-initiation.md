@@ -14,10 +14,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (see [Stakeholder Communication Plan Template](octoacme-stakeholder-communication-plan.md))
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Cross-functional dependencies identified
 
 ## Project One-pager Template
 - Project name:

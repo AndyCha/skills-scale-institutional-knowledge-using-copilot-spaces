@@ -11,9 +11,12 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 ## Pre-release requirements
 - All acceptance criteria met and PRs merged
 - Passing CI and security scans
-- Release notes drafted
+- Security review completed (for changes affecting security)
+- UX/UI validation completed (for user-facing changes)
+- Release notes drafted by Technical Writer (or developer with writer review)
+- Support team briefed on changes and potential customer impact
 - Rollback / mitigation plan documented
-- Smoke tests prepared
+- Smoke tests prepared and reviewed by QA
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)

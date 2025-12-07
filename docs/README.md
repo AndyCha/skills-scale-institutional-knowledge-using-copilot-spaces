@@ -11,9 +11,10 @@ This repository contains comprehensive documentation for OctoAcme's project mana
 ## Getting Started
 
 1. Browse the process documents in the `docs/` folder to understand OctoAcme's project management approach
-2. Review relevant guides based on your role (Developer, Product Manager, or Project Manager)
+2. Review relevant guides based on your role (see [Roles and Personas](octoacme-roles-and-personas.md) for complete list)
 3. Refer to the [Project Management Overview](octoacme-project-management-overview.md) for a comprehensive introduction
-4. See the [Roles and Personas](octoacme-roles-and-personas.md) document for role-specific responsibilities
+4. Check the [Stakeholder Communication Plan](octoacme-stakeholder-communication-plan.md) for engagement strategies
+5. Use the [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md) when transitioning work between teams
 
 ## Project Management Processes
 
@@ -36,18 +37,28 @@ We follow **PR-driven development** with required code review from at least one 
 
 ### Process Documents
 - [Project Management Overview](octoacme-project-management-overview.md)
+- [Roles and Personas](octoacme-roles-and-personas.md)
 - [Project Initiation Guide](octoacme-project-initiation.md)
 - [Project Planning](octoacme-project-planning.md)
 - [Execution & Tracking](octoacme-execution-and-tracking.md)
 - [Risk Management & Communication](octoacme-risks-and-communication.md)
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
-- [Roles and Personas](octoacme-roles-and-personas.md)
+
+### Templates & Checklists
+- [Stakeholder Communication Plan Template](octoacme-stakeholder-communication-plan.md)
+- [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md)
 
 ### Team Contacts
 For questions or support, reach out to:
 - **Project Managers** - for delivery coordination and timeline questions
 - **Product Managers** - for feature prioritization and roadmap inquiries
+- **UX/UI Designers** - for design and user experience guidance
+- **QA Engineers** - for testing strategies and quality standards
+- **Security Leads** - for security reviews and compliance questions
+- **DevOps Engineers** - for deployment and infrastructure support
+- **Technical Writers** - for documentation assistance
+- **Customer Support** - for customer feedback and issue escalation
 - **Repository maintainers** - for technical questions and code reviews
 
 ---

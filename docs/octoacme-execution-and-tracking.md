@@ -15,6 +15,13 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+- Cross-functional handoffs (see [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md)):
+  - Development → QA: include test scenarios and expected behavior
+  - Development → Security: highlight security-relevant changes for review
+  - Development → UX/UI: confirm implementation matches design specs
+  - QA → DevOps: provide test results and deployment validation steps
+  - DevOps → Support: share release notes and known issues
+  - Any team → Technical Writer: flag documentation updates needed
 
 ## Quality & Testing
 - Unit tests for new logic

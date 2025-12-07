@@ -21,8 +21,11 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Create a stakeholder communication plan (see [Stakeholder Communication Plan Template](octoacme-stakeholder-communication-plan.md))
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Tailor communication frequency and detail to stakeholder needs
+- Maintain transparency on risks, blockers, and decision points
 
 ## Communication Templates
 Weekly Status Template:
