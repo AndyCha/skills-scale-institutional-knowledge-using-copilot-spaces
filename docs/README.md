@@ -30,7 +30,7 @@ We follow **PR-driven development** with required code review from at least one 
 3. **Link PRs to issues** by including "Closes #issue-number" or "Refs #issue-number" in the PR description
 4. **Add reviewers** - at least one reviewer is required for all PRs
 5. **Pass required checks** - automated CI/CD tests and linting must pass before merging
-6. **Keep PRs small** (≤400 lines when possible) for easier review and faster merging
+6. **Keep PRs small** (<=400 lines when possible) for easier review and faster merging
 
 ## Documentation & Resources
 
